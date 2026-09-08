@@ -1,6 +1,7 @@
 {
   "compilerOptions": {
     "baseUrl": ".",
+    "lib": ["es2015", "dom", "dom.iterable", "esnext"],
     "paths": {
       "@/*": ["./*"],
       "@components/*": ["components/*"],
